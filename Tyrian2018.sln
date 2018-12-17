@@ -5,6 +5,14 @@ VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyrian2018", "Tyrian2018\Tyrian2018.csproj", "{E427311C-9800-48D7-8C02-12D74A8A9F54}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Release", "Release", "{B7EAB829-EA42-4E8A-B35F-F43A5B514E5A}"
+	ProjectSection(SolutionItems) = preProject
+		Release\explosion.wav = Release\explosion.wav
+		Release\fire.wav = Release\fire.wav
+		Release\start.wav = Release\start.wav
+		Release\Tyrian 2018.exe = Release\Tyrian 2018.exe
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
