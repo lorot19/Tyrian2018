@@ -1,7 +1,7 @@
 # Tyrian2018
 Simple space arcade game
 # Screenshots
-<img src="game2.png" alt="drawing" width="100%"/></img>
+<img src="game2.PNG" alt="drawing" width="100%"/></img>
 <img src="explosion.png" alt="drawing" width="100%"/></img>
 <img src="intro.png" alt="drawing" width="100%"/></img>
 <img src="gameover.png" alt="drawing" width="100%"/></img>
